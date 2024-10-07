@@ -1,3 +1,3 @@
-# Kalkulator prosty
-Kalkulator prosty wykonany w ramach przedmiotu Programowanie strukturalne i obiektowe
+# Simple Calculator  
+Simple calculator created as part of the course: Structural and Object-Oriented Programming
 -
